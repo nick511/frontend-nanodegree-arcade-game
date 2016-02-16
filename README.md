@@ -5,7 +5,7 @@ frontend-nanodegree-arcade-game
 For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
 
 
-## Implemented app.js
+## Implemented [app.js](https://github.com/nick511/frontend-nanodegree-arcade-game/blob/master/js/app.js)
 
 The Enemy function:
 
